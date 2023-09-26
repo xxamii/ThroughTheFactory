@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Platform
+  - Player
+  - Collision
+  - PlayerCollision
+  - Soldier
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Environment
+    uniqueID: 4274234101
+    locked: 0
+  - name: Platform
+    uniqueID: 3815888487
+    locked: 0
+  - name: Soldier
+    uniqueID: 3018503519
+    locked: 0
+  - name: Player
+    uniqueID: 2059178319
+    locked: 0
+  - name: Door
+    uniqueID: 1611649141
+    locked: 0
