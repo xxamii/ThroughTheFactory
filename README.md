@@ -1,6 +1,6 @@
 # ThroughTheFactory
 
-A 2D platformer with juicy platforming mechanics, set in a factory with robot guardians. Beat platforming and avoid them.
+A 2D platformer with juicy platforming mechanics like wall jump. It's set in a factory with robot guardians. Beat platforming and avoid the guardians.
 
 # How to Use It
 
@@ -10,4 +10,5 @@ A 2D platformer with juicy platforming mechanics, set in a factory with robot gu
 
 # What I Learned
 
+- Making a complete game in Unity and publishing it.
 - Using techniques like Coyote time and Jump buffering to make a satisfying character controller.
